@@ -15,7 +15,6 @@ from tqdm import tqdm
 from PIL import Image, ImageOps
 import pandas as pd
 import numpy as np
-from cv2 import cv2
 
 import random
 import os
